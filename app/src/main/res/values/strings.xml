@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CA2Q1Q2</string>
+    <string name="enter_complete_name">Enter Complete Name</string>
+    <string name="are_you_a_lpu_student">Are you a LPU student</string>
+    <string name="day_scholar">Day Scholar</string>
+    <string name="apply_for_the_contest">Apply For The Contest</string>
+    <string name="lateralentry">LateralEntry</string>
+    <string name="lateral_entry">Lateral Entry</string>
+</resources>
